@@ -1,6 +1,6 @@
 {
   "name": "take-screenshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "take-screenshot.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chrome-aws-lambda": "^2.1.1",
-    "puppeteer-core": "^2.1.1",
+    "puppeteer-core": "^2.1.1"
   },
   "devDependencies": {
     "puppeteer": "^2.1.1"
